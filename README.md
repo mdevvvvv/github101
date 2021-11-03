@@ -27,11 +27,12 @@ git init
 git remote add origin https://github.com/mdevvvvv/github101.git
 
 <h1>Clone</h1>
+git clone <url>
 
 <h1>Add</h1>
 git add <file>
 git add <directory>
-git add -p
+git add *
 
 <h1>Commit</h1>
 git commit -m "message"
