@@ -18,16 +18,19 @@ Install
 check version
 
 config git
-git config --global user.email "ritnam.thanakrit@gmail.com"
+git config --global user.email "ritnam.thanakrit@gmail.com"<br/>
 git config --global user.name "mdevvvvv"
 
 Create & Init
+git init
 
 Clone
 
 Add
+git remote add origin https://github.com/mdevvvvv/github101.git
 
 Push
+git push -u origin main
 
 Pull
 
