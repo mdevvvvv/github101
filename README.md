@@ -41,3 +41,4 @@ git commit -m "message"
 git push -u origin master
 
 <h1>Pull</h1>
+git pull --all
