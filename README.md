@@ -19,12 +19,14 @@ Remote Repository เก็บสถานะที่มีการบัน�
 git --version
 
 <h1>config git</h1>
+git config --list
 git config --global user.email "ritnam.thanakrit@gmail.com"<br/>
 git config --global user.name "mdevvvvv"
 
-Create & Init
+<h1>Create & Init</h1>
 git init
 git remote add origin https://github.com/mdevvvvv/github101.git
+git status
 
 <h1>Clone</h1>
 git clone <url>
@@ -32,7 +34,7 @@ git clone <url>
 <h1>Add</h1>
 git add <file>
 git add <directory>
-git add *
+git add .
 
 <h1>Commit</h1>
 git commit -m "message"
