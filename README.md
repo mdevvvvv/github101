@@ -17,7 +17,7 @@ Install
 
 check version
 
-config git
+<b>config git</b>
 git config --global user.email "ritnam.thanakrit@gmail.com"<br/>
 git config --global user.name "mdevvvvv"
 
@@ -30,7 +30,7 @@ Add
 git remote add origin https://github.com/mdevvvvv/github101.git
 
 Push
-git push -u origin main
+git push -u origin master
 
 Pull
 
