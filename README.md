@@ -29,11 +29,11 @@ git remote add origin https://github.com/mdevvvvv/github101.git<br/>
 git status<br/>
 
 <h1>Clone</h1>
-git clone <url>
+git clone [url]
 
 <h1>Add</h1>
-git add <file><br/>
-git add <directory><br/>
+git add [file]<br/>
+git add [directory]<br/>
 git add .<br/>
 
 <h1>Commit</h1>
