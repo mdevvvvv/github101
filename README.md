@@ -36,6 +36,9 @@ git add [file]<br/>
 git add [directory]<br/>
 git add .<br/>
 
+<h1>Diff</h1>
+git diff
+
 <h1>Commit</h1>
 git commit -m "message"
 
