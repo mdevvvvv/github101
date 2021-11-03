@@ -18,6 +18,8 @@ Install
 check version
 
 config git
+git config --global user.email "ritnam.thanakrit@gmail.com"
+git config --global user.name "mdevvvvv"
 
 Create & Init
 
