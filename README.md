@@ -17,7 +17,7 @@ Install
 
 check version
 
-<b>config git</b>
+<h1>config git</h1>
 git config --global user.email "ritnam.thanakrit@gmail.com"<br/>
 git config --global user.name "mdevvvvv"
 
